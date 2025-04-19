@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**madhavrajverma/madhavrajverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 I am Madhav Raj Verma
 
-Here are some ideas to get you started:
+🌱 Learning Web Development, Ios Development and Competitive Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 Pronouns: Web Developer, Ios Developer
+
+📫 How to reach me: https://www.linkedin.com/in/madhav-raj-verma-424779168/
+
+🔗leetcode: https://leetcode.com/u/Amirony/
+
+Some Good Projects
+-Medication Remainder App in Ios :[https://www.linkedin.com/feed/update/urn:li:activity:6958649612744208384/]
+-Hide photo App in Ios : [https://www.linkedin.com/feed/update/urn:li:activity:6962131118003220480/]
+-Nature Music app In Ios :[https://www.linkedin.com/feed/update/urn:li:activity:6975610040476999680/] 
+-Elearning Website  for Web :[]
+-Job finder App in Ios  :[https://www.linkedin.com/feed/update/urn:li:activity:6890567882560950272/] 
+-Money Manger App In ios:[]
+- Alarm App in Ios :[]
