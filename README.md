@@ -41,14 +41,14 @@
 - **Medication Reminder App**[GitHub](https://github.com/madhavrajverma/PillsTrackerApp) · [Demo](https://www.linkedin.com/feed/update/urn:li:activity:6958649612744208384/)
 
 
-- **Hide Photo App** – One-line description. [GitHub](https://github.com/madhavrajverma/HidePhotoApp) ·[Demo](https://www.linkedin.com/feed/update/urn:li:activity:6962131118003220480/)
+- **Hide Photo App** [GitHub](https://github.com/madhavrajverma/HidePhotoApp) ·[Demo](https://www.linkedin.com/feed/update/urn:li:activity:6962131118003220480/)
 
-- **Nature Music App** – One-line description. [GitHub](https://github.com/madhavrajverma/NatureMusicApp) · [Demo](https://www.linkedin.com/feed/update/urn:li:activity:6975610040476999680/)
+- **Nature Music App**  [GitHub](https://github.com/madhavrajverma/NatureMusicApp) · [Demo](https://www.linkedin.com/feed/update/urn:li:activity:6975610040476999680/)
 
 
 - **Money Manager App**  [GitHub](https://github.com/madhavrajverma/MoneyManager)
 
-- **Alarm App** – One-line description. [GitHub](https://github.com/madhavrajverma/AlramClock)
+- **Alarm App** [GitHub](https://github.com/madhavrajverma/AlramClock)
 
 - **Geek Synergy** [GitHub](https://github.com/madhavrajverma/GeekSynergy)
 
